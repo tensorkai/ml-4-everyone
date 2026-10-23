@@ -1,6 +1,21 @@
 # Machine Learning for Everyone
 
+[![Learning level](https://img.shields.io/badge/level-beginner--friendly-2ea44f)](#prerequisites) [![Focus](https://img.shields.io/badge/focus-machine%20learning-3776ab)](#overview) [![Language](https://img.shields.io/badge/examples-Python-3776ab)](#tools-and-technologies) [![Status](https://img.shields.io/badge/status-learning%20materials%20in%20progress-orange)](#overview)
+
 Machine Learning for Everyone is a beginner-friendly learning guide to the ideas, tools, and practices behind machine learning. It is designed to explain concepts in plain language and connect them to practical examples, so learners can understand not only how models work, but also when they should be used and how their results should be interpreted.
+
+## At a glance
+
+<table>
+  <tr>
+    <td><strong>Audience</strong><br>Curious beginners and new practitioners</td>
+    <td><strong>Focus</strong><br>Machine learning concepts and practice</td>
+  </tr>
+  <tr>
+    <td><strong>Examples</strong><br>Python and common data science tools</td>
+    <td><strong>Coverage</strong><br>Foundations through neural networks</td>
+  </tr>
+</table>
 
 ## Overview
 
